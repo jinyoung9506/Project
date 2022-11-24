@@ -1,5 +1,3 @@
-package project;
-
 public class BoardVO {
 	private int num;
 	private String title;
