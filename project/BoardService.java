@@ -15,7 +15,7 @@ public class BoardService {
 				main.showBoardList();
 			} else if (answer == 2) {
 				main.boardInsert();
-				continue;
+				continue; 
 			} else if (answer == 3) {
 				System.out.println("보고싶은 게시글의 번호를 입력하세요>> ");
 				int select = Integer.parseInt(sc.nextLine());
