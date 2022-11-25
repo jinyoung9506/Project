@@ -21,7 +21,6 @@ public class BoardMain {
 			} else {
 				for (BoardVO boardVO : boardList) {
 					System.out.println();
-					
 				}
 			}
 		}
